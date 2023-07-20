@@ -6,7 +6,7 @@ DESCRIPTION = 'Turkish lemmatizer'
 with open('README.md', encoding='utf-8') as f:
     long = f.read()
 setup(
-        name="trstemmer", 
+        name="trlemmatizer", 
         version=VERSION,
         author="Created by Abdullatif Köksal, packed by Mehmet Utku ÖZTÜRK",
         author_email="<contact@ælphard.tk>",

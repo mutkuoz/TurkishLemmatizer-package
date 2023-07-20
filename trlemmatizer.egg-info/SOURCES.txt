@@ -1,0 +1,9 @@
+README.md
+setup.py
+trlemmatizer/__init__.py
+trlemmatizer/lemmatizer.py
+trlemmatizer/trainLexicon.py
+trlemmatizer.egg-info/PKG-INFO
+trlemmatizer.egg-info/SOURCES.txt
+trlemmatizer.egg-info/dependency_links.txt
+trlemmatizer.egg-info/top_level.txt
