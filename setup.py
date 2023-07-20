@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 VERSION = '1.0.0' 
 DESCRIPTION = 'Turkish lemmatizer'
 
-with open('README.md') as f:
+with open('README.md', encoding='utf-8') as f:
     long = f.read()
 setup(
         name="trstemmer", 
