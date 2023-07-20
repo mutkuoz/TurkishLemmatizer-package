@@ -15,7 +15,7 @@ setup(
         long_description_content_type='text/markdown',
         packages=find_packages(),
         install_requires=[],
-        python_requires='>3.9.13',
+        python_requires='>3.9',
         keywords=['machine learning', 'nlp'],
         classifiers= [
             "Intended Audience :: Developers",
