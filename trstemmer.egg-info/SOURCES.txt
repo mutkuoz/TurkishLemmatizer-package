@@ -1,9 +1,0 @@
-README.md
-setup.py
-trlemmatizer/__init__.py
-trlemmatizer/lemmatizer.py
-trlemmatizer/trainLexicon.py
-trstemmer.egg-info/PKG-INFO
-trstemmer.egg-info/SOURCES.txt
-trstemmer.egg-info/dependency_links.txt
-trstemmer.egg-info/top_level.txt
