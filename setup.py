@@ -6,7 +6,7 @@ DESCRIPTION = 'Turkish lemmatizer'
 with open('README.md', encoding='utf-8') as f:
     long = f.read()
 setup(
-        name="trlemma", 
+        name="trstemmer", 
         version=VERSION,
         author="Created by Abdullatif Köksal, packed by Mehmet Utku ÖZTÜRK",
         author_email="<contact@ælphard.tk>",
@@ -15,7 +15,7 @@ setup(
         long_description_content_type='text/markdown',
         packages=find_packages(),
         install_requires=[],
-        python_requires='>3.9',
+        python_requires='>3.9.13',
         keywords=['machine learning', 'nlp'],
         classifiers= [
             "Intended Audience :: Developers",
