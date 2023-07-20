@@ -1,1 +1,1 @@
-from . import findPos
+from . import lemmatizer
