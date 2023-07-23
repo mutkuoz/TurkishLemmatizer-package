@@ -41,7 +41,7 @@ def check(root, suffix, guess, action):
         return False
     return True
 	
-def findPos(kelime,revisedDict):
+def findPos(kelime,revisedDict="revisedDict.pkl"):
     l = []
     if "'" in kelime:
         l.append([kelime[:kelime.index("'")]+"_1","tirnaksiz",kelime])
