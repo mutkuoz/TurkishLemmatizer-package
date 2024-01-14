@@ -1,5 +1,6 @@
 This code and lemmatizer originally belongs to Abdullatif Köksal (https://github.com/akoksal), I only packaged it into a Python package. The description below is also taken from his GitHub repo for the project.
 
+P.S. : You might need to copy revisedDict.pkl manually if you install the package from PyPI.
 # Turkish-Lemmatizer
 This is a lemmatization tool for Turkish Language. Three steps require to make this lemmatizer. Lexicons, handling inflectional suffixes which changes lemma, and checking if suffixes are valid or not.
 
